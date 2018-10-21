@@ -1,6 +1,5 @@
 # Demo
 ---
-**Fett**
-*Kursv*
+**Ein Beispiel**
 ---
 # Ende
